@@ -1,0 +1,84 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "info": { "video": 100, "exam": "20" },
+        "amount": 2000,
+        "title": "ILTS",
+        "author": {
+          "name": "Munzereen Shahid",
+          "study": "MS (English), University of Oxford (UK); BA, MA (English), University of Dhaka;",
+          "img": "https://cdn.10minuteschool.com/images/skills/lp/ms_onset.jpg"
+        },
+        "image_url": "https://cdn.10minuteschool.com/lg/images/thumbnails/ielts_course_by_munzereen_shahid_16_9.jpg",
+        "details": [
+            "IELTS test section format, question and answer format, important tips, tricks and strategies.",
+            "Structure and Essay type help to get good score in IELTS Writing Task 1 and IELTS Writing Task 2."
+            ],
+        "video": [
+            "https://youtu.be/EBVgsHN3bG0",
+            "https://youtu.be/Kwkqj5pJQ18"
+        ]    
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        
+        "category_id": "02",
+        "info": { "video": 35, "exam": "35" },
+        "amount": 2300,
+        "title": "Spoken English Kids",
+        "author": {
+            "name": "Munzereen Shahid",
+            "study": "MS (English), University of Oxford (UK); BA, MA (English), University of Dhaka;",
+            "img": "https://cdn.10minuteschool.com/images/skills/lp/ms_onset.jpg"
+          },
+       
+        "image_url": "https://cdn.10minuteschool.com/lg/images/thumbnails/spoken_english_for_kids_by_ms_16_9.jpg",
+        "details": [
+            "Methods to master and improve conversational skills in English.",
+            "Speaking English with teachers, friends, and family members in Nandin's life."
+            ],
+        "video": [
+            "https://youtu.be/HXGs0-DZ-xg",
+            "https://youtu.be/HXGs0-DZ-xg"
+        ]  
+      },
+  
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "03",
+        "info": { "video": 36, "exam": "7" },
+        "amount": 2300,
+        "title": "Facebook Marketing",
+        "author": {
+          "name": "Jennifer Wood",
+          "study": "Du",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/fb_marketing_update2_thumbnail.jpg",
+        "details": [
+            "Strategies to increase your business sales.",
+            "Ways to position your business as a strong brand."
+            ],
+        "video": [
+            "https://youtu.be/HXGs0-DZ-xg",
+            "https://youtu.be/HXGs0-DZ-xg"
+        ]  
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "04",
+        "info": { "video": 36, "exam": "7" },
+        "amount": 2300,
+        "title": "Quran",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      }
+  
+]
