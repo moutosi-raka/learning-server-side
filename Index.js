@@ -6,9 +6,17 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const coursesCategories = require('./data/courses-categories.json'); 
+const course = require('./data/course-details.json'); 
 
+app.get('/', (req,res)=>{
+    res.send('course data is loading');
+})
 app.get('/courses-categories', (req,res)=>{
     res.send(coursesCategories);
+})
+
+app.get('/courses-details', (req,res)=>{
+    res.send(course);
 })
 
 app.listen(port, ()=>{
