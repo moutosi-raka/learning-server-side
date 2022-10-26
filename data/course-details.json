@@ -52,7 +52,7 @@
         "title": "Facebook Marketing",
         "instructor": {
           "name": "Jennifer Wood",
-          "study": "Du",
+          "study": "University of Dhaka",
           "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
         "image_url": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/fb_marketing_update2_thumbnail.jpg",
@@ -73,7 +73,7 @@
         "title": "Quran",
         "instructor": {
           "name": "Jamal Uddin",
-          "study": "Ju",
+          "study": " University of Dhaka",
           "img": "https://cdn.10minuteschool.com/images/skills/lp/jamal_uddin_onset.jpg"
         },
         "image_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/24-ghontay-quran-shikhi-Course-Thumbnail-.jpg",
@@ -94,7 +94,7 @@
         "title": "Programming Kids",
         "instructor": {
           "name": "Prapty Rahman",
-          "study": "Du",
+          "study": " University of Dhaka",
           "img": "https://cdn.10minuteschool.com/images/skills/instructors/Instructor-DP---Programming-for-Kids-120.jpg"
         },
         "image_url": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/Programming-for-Kids-Course-Thumbnail.jpg",
@@ -109,13 +109,13 @@
       },
       {
         "_id": "f69a695f037cd9484cecaea37ca79942",
-        "category_id": "05",
+        "category_id": "06",
         "info": { "video": 40, "exam": "17" },
         "amount": 3000,
-        "title": "Programming Kids",
+        "title": "Web Design",
         "instructor": {
           "name": "Web Design",
-          "study": "Du",
+          "study": " University of Dhaka",
           "img": "https://cdn.10minuteschool.com/images/skills/instructors/rsz_web_designing_-_instructor_dp.jpg"
         },
         "image_url": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Web-Design-Course-Thumbnail.jpg",

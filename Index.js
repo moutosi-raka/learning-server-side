@@ -20,7 +20,7 @@ app.get('/courses-details', (req,res)=>{
 })
 app.get('/courses-details/:id', (req,res)=>{
    const id =req.params.id;
-   const selectedCourse = course.find(C => C._id===id)
+   const selectedCourse = course.find(C => C.category_id===id)
    res.send(selectedCourse)
 })
 
